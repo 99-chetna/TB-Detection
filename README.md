@@ -2,3 +2,5 @@
 
  
  Alcohol use has been identified as a risk factor for TB recurrence and mortality in TB patients. People who consume alcohol have a greater risk of relapse and mortality from TB than those who do not consume alcohol.
+
+This repository is showing how many alcohal addicted people are suffering from this problem in every state of India. 
