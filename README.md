@@ -1,3 +1,7 @@
+
+Tuberculosis Detection
+
+
 ![image](https://github.com/99-chetna/TB-Detection/assets/112334463/7c9c1b75-8ce9-4ca8-bf38-c899dd69de5f)  
 
  
